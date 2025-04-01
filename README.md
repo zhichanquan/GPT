@@ -1,2 +1,2 @@
-# GPT
-GPT
+# Magic
+Wechat: `zhichanquan888`

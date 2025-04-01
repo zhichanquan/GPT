@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "zoterogpt@polygon.org": {
+      "updates": [
+        {
+          "version": "1.9.3",
+          "update_link": "https://gitee.com/MuiseDestiny/plugins/raw/master/zotero-gpt.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
