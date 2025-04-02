@@ -3,7 +3,7 @@
     "zoterogpt@polygon.org": {
       "updates": [
         {
-          "version": "1.9.3",
+          "version": "1.9.4",
           "update_link": "https://github.com/zhichanquan/GPT/releases/download/194/gpt-194.xpi",
           "applications": {
             "zotero": {
