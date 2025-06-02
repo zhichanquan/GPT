@@ -3,8 +3,8 @@
     "zoterogpt@polygon.org": {
       "updates": [
         {
-          "version": "2.0.0",
-          "update_link": "https://github.com/zhichanquan/GPT/releases/download/GPT/gpt-200.xpi",
+          "version": "2.0.1",
+          "update_link": "https://github.com/zhichanquan/GPT/releases/download/GPT/gpt-201.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
