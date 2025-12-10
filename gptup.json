@@ -3,7 +3,7 @@
     "zoterogpt@polygon.org": {
       "updates": [
         {
-          "version": "2.1.8",
+          "version": "2.2.9.5",
           "update_link": "https://github.com/zhichanquan/GPT/releases/download/GPT/gpt-2295.xpi",
           "applications": {
             "zotero": {
